@@ -8,12 +8,20 @@ The data was collected as a part of the BMBF-funded project "open-access-network
   
  # Open Access activities of the institutions
  
-• Institutional coordinates (e.g. federal state, ROR ID)
-• Institutional Open Access activities
+• _Institutional coordinates (e.g. federal state, ROR ID)_
+
+• _Institutional Open Access activities_
+
   – Open Access policies
+  
   – Open Access representatives
+  
   – Information services (e.g. website)
-  – Publication fund–Infrastructure-related services (e.g. repository, Open Journal Systems (OJS)
+  
+  – Publication fund
+  
+  – Infrastructure related services (e.g. repository, Open Journal Systems (OJS)
+  
   – Assignment of Open Access declarations and agreements (e.g. Berlin Declaration, DORA Decla-ration)
   
     
