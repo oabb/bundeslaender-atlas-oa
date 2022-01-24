@@ -8,9 +8,9 @@ The data was collected as a part of the BMBF-funded project "open-access-network
   
  # Open Access activities of the institutions
  
-• _Institutional coordinates (e.g. federal state, ROR ID)_
+• __Institutional coordinates (e.g. federal state, ROR ID)__
 
-• _Institutional Open Access activities_
+• __Institutional Open Access activities__
 
   – Open Access policies
   
@@ -32,13 +32,18 @@ Based on the data collection, state dossiers will provide a compact overview of 
 # Open Access activities of the federal states
 
 • Science policy: positions and objectives–Strategies and programmes (incl. coalition agreements)
+
   – Higher education laws–Programmes of political parties
 
 • Agreements between state and institutions
+
   – Higher education contracts–Target agreements (e.g. Open Access quotas)
 
 • Concrete activities and measures to promote Open Access–Political funding programmes
+
   – State funds–Funding for developing Open Access infrastructures
+
   – Central state institutions–Central contact persons/services (e.g. Open Access Office Berlin)
+
   – Further networking opportunitie
 
