@@ -24,6 +24,8 @@ The data was collected as a part of the BMBF-funded project "open-access-network
   
   – Assignment of Open Access declarations and agreements (e.g. Berlin Declaration, DORA Decla-ration)
   
+  - hier wurde eine Änderung gemacht 
+  
     
   # State dossiers
   
