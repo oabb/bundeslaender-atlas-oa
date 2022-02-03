@@ -49,5 +49,4 @@ Based on the data collection, state dossiers will provide a compact overview of 
 
   – Further networking opportunitie
   
-  aktualisiert am 03.02.2022 und am 04.02.
-
+  aktualisiert am 03.02.2022 und am 04.02.22
