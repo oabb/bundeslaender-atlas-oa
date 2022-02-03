@@ -1,5 +1,8 @@
 # Bundesländer Atlas Open Access / Atlas on Open Access in German Federal States 
 
+Hier habe ich eine Änderung vorgenommen. 
+2. Änderung
+
 Repository to start a community work on mapping the activities of Open Access in Germany
 
 # data file
