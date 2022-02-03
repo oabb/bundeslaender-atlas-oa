@@ -48,4 +48,6 @@ Based on the data collection, state dossiers will provide a compact overview of 
   – Central state institutions–Central contact persons/services (e.g. Open Access Office Berlin)
 
   – Further networking opportunitie
+  
+  aktualisiert am 03.02.2022
 
