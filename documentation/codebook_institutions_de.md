@@ -69,7 +69,8 @@
 | 66 | Postfach GERiT | Postfach (Anschrift) | Nummer; NA | übernommen aus GERiT-Liste | GERiT | https://www.gerit.org/de/service/%22 (5. März 2021) |
 | 67 | Postleitzahl nach Ort GERiT | Postleitzahl (Anschrift) | Nummer; NA | übernommen aus GERiT-Liste | GERiT | https://www.gerit.org/de/service/%22 (5. März 2021) |
 | 68 | Ort GERiT | Ort (Anschrift) | Nummer; NA | übernommen aus GERiT-Liste | GERiT | Nummer; NA | übernommen aus GERiT-Liste | GERiT | https://www.gerit.org/de/service/%22 (5. März 2021) |
-| 69 | DESTATIS Fächergruppe GERiT | Fächergruppe DESTATIS via GERiT-Liste | Nummer; NA | übernommen aus GERiT-Liste | GERiT | https://www.gerit.org/de/service/%22 (5. März 2021) |
+| 69 | DESTATIS Fächergruppe GERiT | Fächergruppe DESTATIS via GERiT-Liste | Nummer; NA | übernommen aus GERiT-Liste | GERiT 
+| https://www.gerit.org/de/service/%22 (5. März 2021) |
 | 70 | DESTATIS Lehr- und Forschungsbereich GERiT | Lehr- und Forschungsbereich via GERiT-Liste | Nummer; NA | übernommen aus GERiT-Liste | GERiT |
 | 71 | DESTATIS Fachgebiet GERiT | Fachgebiet via GERiT-Liste | Nummer; NA | übernommen aus GERiT-Liste | GERiT | https://www.gerit.org/de/service/%22 (5. März 2021) |
 | 72 | Crossref ID GERiT | Crossref ID via GERiT-Liste | CrossRef ID; NA | übernommen aus GERiT-Liste | GERiT | https://www.gerit.org/de/service/%22 (5. März 2021) |
