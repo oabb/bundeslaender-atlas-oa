@@ -2,96 +2,97 @@
 
 | Variable | Variablenbeschreibung | Variablenwerte | Angabe optional / obligatory | Anmerkungen | 
 | --- | --- | --- | --- | --- | 
-| Bundesland | Die Variable Bundesland listet die Bezeichnung des Bundeslandes der Bundesrepublik Deutschland auf. Die Bundesrepublik Deutschland ist in 16 Bundesländer aufgeteilt. | free text | obligatory	
-| Verantwortliches Ministerium | Die Variable Verantwortliches Ministerium listet das Ministerium des jeweiligen Bundeslandes auf, welches für den Bereich Open Access / Open Science/Digitalisierung im Bundesland zuständig ist. | free text | obligatory	
-| Verantwortliches Ministerium: URL | Die Variable Verantwortliches Ministerium: URL listet den Link auf, der zur Startseite des jeweiligen Ministeriums führt. | URL | obligatory	
-| "OA im Koalitionsvertrag/Koalitionsvereinbarung" | Diese Variable beschreibt, ob Open Access im Koalitionsvertrag der derzeitig (Stand Mai 2021) regierenden Koaltion und retrospektiver Koaltionen im jeweiligen Bundesland erwähnt wird. | 0;1 | obligatory	
-| OA im Koalitionsvertrag/Koalitionsverienbarung: URL 1 | Diese Variable zeigt den Link zur aktuellen (Stand Mai 2021) Koalitionsvereinabrung des jeweiligen Bundeslandes , in der Open Access erwähnt wird. | URL | optional	
-| OA im Koalitionsvertrag/Koalitionsverienbarung: Text 1 | Diese Variable zeigt den Textausschnitt aus der aktuellen Koalitionsvereinbarung an, in der Open Access erwähnt wird. | free text |	optional	
-| OA im Koalitionsvertrag / Koalitionsvereinbarung: URL 2 | Diese Variable zeigt den Link zu einer vergangenen Koalitionsvereinabrung des jeweiligen Bundeslandes an, in der Open Access erwähnt wird. | URL	| optional	
-| OA im Koalitionsvertrag/ Koalitionsverienbarung: Text 2 | Diese Variable zeigt den Textausschnitt einer vergangenen Koalitionsvereinabrung des jeweiligen Bundeslandes an, in der Open Access erwähnt wird. | free text | optional	
-| OA-Positionierung | Diese Variable ziegt an, ob das jeweilige Ministerium eine eigene Strategie / Policy / Leitlinie zum Themenbereich Open Access veröffentlicht hat. | 0;1 | obligatory	
-| "Art der OA-Positionierung: Policy - Strategie - Leitlinie: Titel" | Diese Variable benennt den Titel der jeweiligen Open Access Positionierung des Bundeslandes. | free text | optional	
-| OA-Positionierung: URL | Diese Variable zeigt den Link zum Dokument der jeweiligen Open Access Positionierung des jeweiligen Bundeslandes | URL |	optional	
-| OA in den Hochschulgesetzen | Diese Variable zeigt an, ob Open Access in dem Hochschulgesetz des jeweiligen Bundeslandes erwähnt wird. | 0;1 | obligatory	
-| "OA in den Hochschulgesetzen: URL" | Diese Variable beinhaltet den Link zum Hochschulgesetz des jeweiligen Bundeslandes, in dem Open Access erwähnt wird. | URL | optional	
-| OA in den Hochschulgesetzen: Text | Diese Variable ziegt den Textauschnitt aus dem Hochschulgesetz des jeweiligen Bundeslandes, in dem Open Access erwähnt wird. Gibt es eine Seitenzahl im zitierten Dokument, wird diese angegeben. | free text | optional	
-| "OA in Hochschulverträgen Zielvereinbarungen" | Diese Variable zeigt an, ob Open Access in dem jeweiligen Bundesland einer Form der Hochschulsteuerung angegeben wird. | 0;1 |	obligatory	
-| OA in der Hochschulsteuerung: Titel 1. Ziel- und Leistungsvereinbarungen auf Länderebene | Diese Variable zeigt den Titel des jeweiligen Dokuments der Ziel- und Leistungsvereinbarung auf Länderbene, in dem Open Access erwähnt wird. | free text | optional	
-| OA in der Hochschulsteuerung: URL 1 | Diese Variable ziegt den Link des Dokuments der Ziel- und Leistungsvereinbarung auf Länderbene, in dem Open Access erwähnt wird. | URL | optional	
-| OA in der Hochschulsteuerung: Titel 2-3. Ziel- und Leistungsvereinbarung auf Einrichtungsebene | Diese Variable zeigt die Titel der jeweiligen Dokumente der Ziel- und Leistungsvereinbarungen auf Einrichtungsebene, in dem Open Access erwähnt wird.	| free text | optional	
-| OA in der Hochschulsteuerung: URL 2-3 | Diese Variable ziegt den Link der jeweiligen Dokumente der Ziel- und Leistungsvereinbarungen auf Einrichtungsebene, in dem Open Access erwähnt wird. | URL | optional	
-| OA in der Hochschulsteuerung: Titel 4-6. Hochschulentwirklungsverträge und Wissenschaftspläne auf Länderebene | Diese Variable zeigt die Titel der jeweiligen Dokumente der Hochschulentwicklungsverträge oder Wissenschaftspläne auf Länderebene, in dem Open Access erwähnt wird. | free text | optional	
-| OA in der Hochschulsteuerung: URL 4-6 | Diese Variable zeigt den Link der jeweiligen Dokumente der Hochschulentwicklungsverträge oderWissenschaftspläne auf Länderebene, in dem Open Access erwähnt wird. | URL | optional	
-| OA in der Hochschulsteuerung: Titel 7. Digitalisierungsstrategien | Diese Variable zeigt die Titel der jeweiligen Dokumente der Digitalstrategie auf Länderebene, in dem Open Access erwähnt wird. | free text | optional	
-| OA in der Hochschulsteuerung: URL 7 | Diese Variable zeigt den Link der jeweiligen Dokumente der Digitalstrategie auf Länderebene, in dem Open Access erwähnt wird. | URL | optional	
-| (Politische) Förderprogramme | Diese Variable beschreibt, ob es in dem jeweiligen Bundesland ein politisches Förderprogramm gibt oder gab. | 0;1 |	obligatory	
-| (Politische) Förderprogramm 1-3: Titel | Diese Variable benennt den Titel des politisches Förderprogramms im jeweiligen Bundesland. | free text |	optional	
-| (Politische) Förderprogramm 1-3: URL | Diese Variable benennt den Link der Webseite oder des Dokuments zum politischen Förderprogramms im jeweiligen Bundesland. | URL | optional	
-| (Politische) Förderprogramme: Finanzierung 1-3: Summe | Diese Variable benennt die Summe, mit das politische Förderprogramm im jeweiligen Bundesland finanziert wird. | 0;1 | optional	
-| Landesfonds | Diese Variable zeigt an, ob es im jeweiligen Bundesland einen Finanzierungsfond für Open Access auf Landesebene gibt. | free text |	 obligatory	
-| "Landesfonds: Buch; Zeitschrift; gemischt" | Diese Variable zeigt an, füsr welches Format dieser Fond Gültigkeit besitzt. Zur Auswahl steht Buch, Zeitschrift oder gemischt. | free text | optional	
-| Landesfonds: URL | Diese Variable ziegt den Link zur jeweilgen Webseite, auf der Informationen zum landesfond zu finden sind.	| URL | optional	
-| "Landesfonds: finanzielle Ausstattung (Summe)" | Diese Variable ziegt die Summe, mit der ein Landesfond ausgestatet ist. | 0;1 | optional	
-| Landesfonds: finanzielle Ausstattung: URL | Diese Variable ziegt den Link zur Webseite, auf der Informationen zur finanziellen Ausstattung zum Landesfond zu finden sind. | URL | optional	
-| Landesstrategien für bestimmte OA-Handlungsfelder | Diese Variable gibt an, ob es im jeweiligen Bundesland weitere Strategien für bestimmte Handlungsfelder im Open Access Bereich gibt. | 0;1 | obligatory	
-| Landesstrategien für bestimmte OA-Handlungsfeld 1: Name | Diese Variable gibt den Titel der Landesstrategie an, die im jeweiligen Bundesland für ein bestimmtes Handlungsfeld im Open Access besteht. | free text | optional	
-| Landesstrategien für bestimmte OA-Handlungsfeld 1: URL | Diese Variable gibt den Link zur Webseite oder zum Dokument der Landesstrategie an, die im jeweiligen Bundesland für ein bestimmtes Handlungsfeld im Open Access besteht. | URL | optional	
-| Zentrale Landeseinrichtungen | Diese Variable gibt an, ob es zentrale Landeseinrichtungen im jeweiligen Bundesland gibt, die für Open Access zuständig sind. | 0;1 | obligatory	
-| Zentrale Landeseinrichtung: Titel | Diese Variable gibt den Titel der Landeseinrichtung an, die im jeweiligen Bundesland für für Open Access zuständig ist. | free text | optional	
-| Zentrale Landeseinrichtung: URL | Diese Variable gibt den Link zur Webseite der Landeseinrichtung an, die im jeweiligen Bundesland für für Open Access zuständig ist. | URL | optional	
-| Förderung von Infrastrukturen	| Diese Variable gibt an, ob das jeweilige Bundesland Infrastrukturen im Bereich Open Access fördert. | 0;1 | obligatory	
-| Förderung von Infrastrukturen 1-3: Titel | Diese Variable benennt den Titel der vom jeweiligen Bundesland geförderten Infrastruktur. | free text |	optional	
-| Förderung von Infrastrukturen 1-3: URL | Diese Variable benennt den Link zur Webseite mit Infos zu der vom jeweiligen Bundesland geförderten Infrastruktur. | URL | optional	
-| Förderung von Infratsukturen 1-3: Summe | Diese Variable benennt die Summe, mit der die vom jeweiligen Bundesland geförderten Infrastruktur finanziert wird. | 0;1 | optional	
-| OA Quoten | Diese Variable gibt an, ob das jeweilige Bundesland eine eigene OA Quote festeglegt hat. | Zahl | obligatory	
-| Quote: Wie hoch? | Diese Variable gibt an, wie hoch die Open Access Quote für das jeweilige Bundesland ist. | Zahl | optional	
-| Quote: URL | Diese Variable gibt den Link zu Informationen über die Open Access Quote für das jeweilige Bundesland an. | URL | optional	
-| Zentrales Monitoring | Diese Variable gibt an, ob es ein zentrales Open Access Monitoring im jeweiligen Bundesland gibt. | 0;1 | obligatory	
-| Zentrales Monitoring: URL | Diese Variable gibt den Link zur Webseite oder dem Dokument an, in dem Informationen zum Open Access Monitoring zu finden sind. | URL | optional	
-| "Incentivierung (Wettbewerbe, Preise etc.)" | Diese Variable gibt an, ob das Bundesland eine Form der Incentivierung durch Wettbewerbe, Preise oder ähnliches für Open Access finanziert.	| 0;1 | obligatory	
-| Incentivierung 1: Name | Diese Variable gibt den Titel des Incentivierungsprogramms an. | free text | optional	
-| Incentivierung 1: URL | Diese Variable gibt den Link zur Webseite oder zum Dokument an, das Informationen zum jeweiligen Incentivierungsprogramm beinhaltet. | URL | optional	
-| Förderung von und für Netzwerke | Diese Variable gibt an, ob das jeweilige Bundesland Netzwerke im Bereich Open Access fördert. | 0;1 | obligatory	
-| Förderung von und für Netzwerke 1: Name | Diese Variable gibt den Titel des Netzwerks an, das vom jeweiligen Bundesland im Bereich Open Access gefördert wird | free text | optional	
-| Förderung von und für Netzwerke 1: URL | Diese Variable gibt den Link zur Webseite des Netzwerks an, das vom jeweiligen Bundesland im Bereich Open Access gefördert wird | URL | optional	
-| Kompetenzentwicklung | Diese Variable gibt an, ob das jeweilige Bundesland Konpetenzstellen im Bereich Open Access fördert. | 0;1 | obligatory	
-| Kompetenzentwicklung 1: Name | Diese Variable gibt den Titel der Kompetenzstelle an, die das jeweilige Bundesland im Bereich Open Access fördert. |	free text | optional	
-| Kompetenzentwicklung 1: URL | Diese Variable gibt den Link zur Kompetenzstelle an, die das jeweilige Bundesland im Bereich Open Access fördert. | URL | optional	
-| Arbeitsgruppen (OA-Beauftragte) | Diese Variable gibt an, ob das jeweilige Bundesland Arbeitsgruppen fördert, bspw. von Open-Access-Beauftragten. | 0;1 | obligatory 	
-| Arbeitsgruppe 1: Name	| Diese Variable benennt den Titel der vom jeweiligen Bundesland geförderten Arbeitsgruppe im Bereich Open Access. | free text | optional	
-Arbeitsgruppe 1: URL | Diese Variable benennt den Link zu Informationen über die vom jeweiligen Bundesland geförderten Arbeitsgruppe im Bereich Open Access. | URL | optional	
-| Vernetzungsformen auf Landesebene | Diese Variable bennt, ob es Vernetzungsformen im Bereich Open Access auf Landesebene gibt. | 0;1 | obligatory	
-| Vernetzungsformen auf Landesebene 1: Name | Diese Variable benennt den Titel der Form von Vernetzung auf Landesebene im Bereich Open Access. | free text | optional	
-| Vernetzungsformen auf Landesebene 1: URL | Diese Variable benennt den Link zur Webseite oder zum Dokument, welches Informationen zur Vernetzungsform auf Landesebene im Bereich Open Access enthält. | URL | optional	
-| Länderübergreifende Zusammenarbeit zur Förderung von OA | Diese Variable gibt an, ob es eine Länderübergreifend Vernetzungsform im Bereich Open Access gibt, bspw.. Open Access Austausch Länder+BMBF.	| 0;1 | obligatory	
-| Länderübergreifende Zusammenarbeit 1: Name | Diese Variable benennt den Form des länderübergreifenden Austauschs im Bereich Open Access. | free text | optional	
-| Länderübergreifende Zusammenarbeit 1: URL | Diese Variable gibt den Link zur Webseite oder zum Dokument an, über das Informationen über den länderübergreifenden Austausch im Bereich Open Access zu erhalten sind.	| URL | optional	
-| Assoziierte Projekte | Diese Variable gibt an, ob es zu Open Access assoziierte projekte im jeweiligen Bundesland gibt. | 0;1 | obligatory	
-| Assoziiertes Projekt 1-4 | Diese Variable benennt die mit Open Access assoziierten Projekte nach Themengebiet, darunter fallen Open Source; Open Data; Open Educational Ressources; Forschungsdaten. | free text | optional	
-| Assoziiertes Projekt 1-4: Name | Diese Variable benennt die mit Open Access assoziierten Projekte nach Projekttitel im jeweiligen Bundesland.	| free text | optional	
-| Assoziiertes Projekt 1-4: URL	| Diese Variable benennt den Link zur Webseite mit Informationen zu dem mit Open Access assoziierten Projekt im jeweiligen Bundesland. | URL | optional	
-| Best Practices aus den Bundesländern | Diese Variable gibt an, ob es in dem jeweiligen Bundesland Best Practices im Bereich Open Access gibt. |	0;1 | obligatory	
-| Best Practice 1-3: Name | Diese Variable benennt den Titel der jeweiligen Best Practice im Bereich Open Access im jeweiligen Bundesland. | free text | optional	
-| Best Practice 1-3: URL | Diese Variable benennt den Link zur jeweiligen Best Practice im Bereich Open Access im jeweiligen Bundesland. | URL | optional	
-| Best Practice 1-3: Textauszug	| Diese Variable gibt den Textauszug aus dem Länder-Dossier zur jeweiligen Best Practice im Bereich Open Access im jeweiligen Bundesland an. | free text | optional	
-| Politische Wahlen: Jahr | Diese Variable benennt, in welchem Jahr die politischen Wahlen im jeweiligen Bundesland stattfinden oder stattgefunden haben. | TT/MM/JJJJ | obligatory	
-| Die Linke - Open Access im Parteiprogramm | Diese Variable gibt an, ob die Partei Die Linke Open Access in ihrem aktuellen Wahlprogramm benennt. | 0;1 | obligatory	
-| Parteiprogramm Die Linke: Link | Diese Variable benennt den Link zum Parteiprogramm der Linken im jeweiligen Bundesland. | Link | optional	
-| Parteiprogramm Die Linke: Textauszug | Diese Variable gibt den Textauszug an, in dem im Parteiprogramm der Linken Open Access benannt wird. Falls es eine Seitenangabe gibt, wird diese auch benannt. | free text | optional	
-| SPD - Open Access im Parteiprogramm | Diese Variable gibt an, ob die Partei SPD Open Access in ihrem aktuellen Wahlprogramm benennt. | 0;1 | obligatory
-| Parteiprogramm SPD: URL | Diese Variable benennt den Link zum Parteiprogramm der SPD im jeweiligen Bundesland. | URL | optional	
-| Parteiprogramm SPD: Textauszug | Diese Variable gibt den Textauszug an, in dem im Parteiprogramm der SPD Open Access benannt wird. Falls es eine Seitenangabe gibt, wird diese auch benannt. | free text | optional	
-| Bündnis 90/Die Grünen - Open Access im Parteiprogramm	| Diese Variable gibt an, ob die Partei Bündnis 90/Die Grünen Open Access in ihrem aktuellen Wahlprogramm benennt.|  0;1 | obligatory	
-| Parteiprogramm Bündnis 90/Die Grünen: URL | Diese Variable benennt den Link zum Parteiprogramm der Bündnis 90/Die Grünen im jeweiligen Bundesland. | URL | optional	
-| Parteiprogramm Bündnis 90/Die Grünen: Textauszug | Diese Variable gibt den Textauszug an, in dem im Parteiprogramm von Bündnis 90/Die Grüne Open Access benannt wird. Falls es eine Seitenangabe gibt, wird diese auch benannt.	| free text | optional	
-| CDU - Open Access im Parteiprogramm | Diese Variable gibt an, ob die Partei CDU Open Access in ihrem aktuellen Wahlprogramm benennt.	| 0;1| obligatory	|
-| Parteiprogramm CDU: URL | Diese Variable benennt den Link zum Parteiprogramm der CDU im jeweiligen Bundesland. | URL | optional	
-| Parteiprogramm CDU: Textauszug | Diese Variable gibt den Textauszug an, in dem im Parteiprogramm der CDU Open Access benannt wird. Falls es eine Seitenangabe gibt, wird diese auch benannt. | free text | optional	
-| FDP - Open Access im Parteiprogramm | Diese Variable gibt an, ob die Partei FDP Open Access in ihrem aktuellen Wahlprogramm benennt. | 0;1 | obligatory	Parteiprogramm FDP: URL	Diese Variable benennt den Link zum Parteiprogramm der FDP im jeweiligen Bundesland. | URL | optional	
-| Parteiprogramm FDP: Textauszug | Diese Variable gibt den Textauszug an, in dem im Parteiprogramm der FDP Open Access benannt wird. Falls es eine Seitenangabe gibt, wird diese auch benannt. | free text | optional	
-| Länder-Dossier Textauszug 1: Kurzer Abriss: Historie und Stand der Aktivitäten | Diese Variable zeigt den Textauszug zum Thema Historie und Stand der Aktivitäten aus dem Länder-Dossier zum jeweiligen Bundesland. | free text | optional	
-| Länder-Dossier Textauszug 2: Rahmenbedingungen | Diese Variable zeigt den Textauszug zum Thema Rahmenbedingungen aus dem Länder-Dossier zum jeweiligen Bundesland. | free text | optional	
-| Länder-Dossier Textauszug 3: Aktivitäten und Maßnahmen zur Förderung von Open Access | Diese Variable zeigt den Textauszug zum Thema Aktivitäten und Maßnahmen zur Förderung von Open Access aus dem Länder-Dossier zum jeweiligen Bundesland. | free text | optional	
-| Länder-Dossier Textauszug 4: Vernetzungsaktivitäten | Diese Variable zeigt den Textauszug zum Thema Vernetzungsaktivitäten aus dem Länder-Dossier zum jeweiligen Bundesland. | free text | optional	
-| Länder-Dossier Textauszug 5: Assoziierte Themen | Diese Variable zeigt den Textauszug zum Thema Assoziierte Themen aus dem Länder-Dossier zum jeweiligen Bundesland. | free text | optional	
+| Bundesland | This variable lists the name of the federal state of the Federal Republic of Germany. The Federal Republic of Germany is divided into 16 federal states.	| free text |	obligatory |
+| Verantwortliches Ministerium | This variable lists the ministry of the respective federal state that is responsible for the area of Open Access / Open Science/Digitization in that federal state| free text | obligatory	
+| Verantwortliches Ministerium: URL	| This URL variable lists the link that leads to the home page of the respective ministry.	| URL	| obligatory |
+| "OA im Koalitionsvertrag/Koalitionsvereinbarung" |	This variable describes whether OA is mentioned in the coalition agreement of the current (as of May 2021) governing coalition and retrospective coalitions in the respective federal state. | 0;1 |	obligatory	
+| OA im Koalitionsvertrag/Koalitionsverienbarung: URL 1	| This variable shows the URL to the current (as of May 2021) coalition agreement of the respective federal state , in which Open Access is mentioned. |	URL	| optional	
+| OA im Koalitionsvertrag/Koalitionsverienbarung: Text 1 | This variable displays the text excerpt from the current coalition agreement in which OA is mentioned.	| free text	| optional |
+| OA im Koalitionsvertrag / Koalitionsvereinbarung: URL 2 |	This variable displays the link to a past coalition agreement of the respective state in which OA is mentioned.	| URL |	optional |
+| OA im Koalitionsvertrag/ Koalitionsverienbarung: Text 2 |	This variable displays the text excerpt of a past coalition agreement of the respective federal state in which OA is mentioned.	| free text	| optional |
+| OA-Positionierung	| This variable indicates whether each ministry has published its own strategy/policy/guideline on Open Access. |	0;1 |	obligatory |
+| "Art der OA-Positionierung: Policy - Strategie - Leitlinie: Titel"	| This variable names the title of the respective document, in which the federal state positions itself toward Open Access. | free text | optional	
+| OA-Positionierung: URL	| This variable shows the URL to the document of the respective Open Access positioning of the respective federal state |	URL |	optional |
+| OA in den Hochschulgesetzen	| This variable indicates whether OA is mentioned in the higher education law of the respective state. |	0;1	| obligatory |
+| OA in den Hochschulgesetzen: URL |	This variable contains the URL to the higher education law of the respective state in which OA is mentioned. | URL | optional	|
+| OA in den Hochschulgesetzen: Text	| This variable shows the text excerpt from the Higher Education Act of the respective federal state in which Open Access is mentioned. If there is a page number in the cited document, it is indicated.	| free text	| optional |	
+| OA in Hochschulverträgen Zielvereinbarungen |	This variable indicates whether OA is specified in the respective state of a form of higher education governance. |	0;1	| obligatory |
+| OA in der Hochschulsteuerung: Titel 1. Ziel- und Leistungsvereinbarungen auf Länderebene | This variable shows the title of the respective document of the target and performance agreement at country level in which OA is mentioned. | free text | optional	|
+| OA in der Hochschulsteuerung: URL 1	| This variable shows the URL of the document of the target and performance agreement on the country level, in which Open Access is mentioned. |	URL	 | optional	|
+| OA in der Hochschulsteuerung: Titel 2-3. Ziel- und Leistungsvereinbarung auf Einrichtungsebene	| This variable shows the titles of the respective documents of the target and performance agreements at institutional level in which OA is mentioned. | free text | optional	|
+| OA in der Hochschulsteuerung: URL 2-3 |	This variable shows the URL of the respective documents of the target and performance agreements at institution level in which OA is mentioned.	| URL |	optional |
+| OA in der Hochschulsteuerung: Titel 4-6. Hochschulentwirklungsverträge und Wissenschaftspläne auf Länderebene	| This variable shows the titles of the respective documents of the higher education development agreements or science plans at the state level in which OA is mentioned. |	free text |	optional	|
+| OA in der Hochschulsteuerung: URL 4-6	This variable shows the URL of the respective documents of the higher education development contracts or science plans on the country level in which Open Access is mentioned. |	URL	| optional |
+| OA in der Hochschulsteuerung: Titel 7. Digitalisierungsstrategien	| This variable shows the titles of the respective digital strategy documents at country level in which OA is mentioned. |	free text	 | optional	
+| OA in der Hochschulsteuerung: URL 7 | This variable shows the URL of the respective digital strategy documents at country level in which OA is mentioned. |	URL |	optional |
+| (Politische) Förderprogramme |	This variable describes whether there is or was a political support program in the respective state.	| 0;1	| obligatory	|
+| (Politische) Förderprogramm 1-3: Titel	This variable designates the title of the political support program in the respective state.	| free text	| optional |	
+| (Politische) Förderprogramm 1-3: URL | This variable names the website or document link to the policy support program in the state.	| URL |	optional	|
+| (Politische) Förderprogramme: Finanzierung 1-3: Summe	| This variable specifies the amount with which the political support program is financed in the respective state.	| 0;1	| optional |
+| Landesfonds	| This variable indicates whether there is funding for OA at the state level in the respective state. |	free text	| obligatory	|
+| Landesfonds: Buch; Zeitschrift; gemischt |	This variable indicates the format for which this funding is valid. You can choose between book, magazine or mixed.	| free text	| optional	|
+| Landesfonds: URL | This variable shows the URL to the respective web page where information about the funding can be found. |	URL	| optional |
+| Landesfonds: finanzielle Ausstattung (Summe) | This variable shows the amount of money a country fund is endowed with. |	0;1	| optional |
+| Landesfonds: finanzielle Ausstattung: URL	| This variable shows the URL to the web page where information about the financial endowment to the state fund can be found. |	URL	| optional	|
+| Landesstrategien für bestimmte OA-Handlungsfelder	This variable indicates whether there are further strategies for specific fields of action in the OA field in the respective federal state. |	0;1 |	obligatory |	
+| Landesstrategien für bestimmte OA-Handlungsfeld 1: Name |	This variable indicates the title of the state strategy that exists in the respective state for a specific field of action in OA. |	free text |	optional	|
+| Landesstrategien für bestimmte OA-Handlungsfeld 1: URL |	This variable specifies the URL to the website or document of the state strategy that exists in the respective state for a specific field of action in OA. |	URL	| optional	|
+| Zentrale Landeseinrichtungen | This variable indicates whether there are central state institutions in the respective state that are responsible for OA. |	0;1	 | obligatory	|
+| Zentrale Landeseinrichtung: Titel |	This variable specifies the title of the state institution responsible for OA in the respective state. | free text | optional	|
+| Zentrale Landeseinrichtung: URL	| This variable specifies the link to the website of the state institution responsible for OA in the respective state.	| URL	| optional	|
+| Förderung von Infrastrukturen	| This variable indicates whether the respective federal state promotes infrastructures in the area of open access. |	0;1 | obligatory	|
+| Förderung von Infrastrukturen 1-3: Titel | This variable designates the title of the infrastructure supported by the respective state. | free text	| optional	|
+| Förderung von Infrastrukturen 1-3: URL | This variable designates the URL to the website with info about the infrastructure supported by the respective state.	| URL | optional	|
+| Förderung von Infratsukturen 1-3: Summe	| This variable designates the sum with which the infrastructure supported by the respective federal state is financed.	| 0;1 | optional |
+| OA Quoten	| This variable indicates whether the respective state has set its own OA quota. | Zahl |	obligatory |
+| Quote: Wie hoch? | This variable indicates how high the open access quota is for the respective state.	| percentage |	optional |
+| Quote: URL |	This variable specifies the URL to information about the open access quota for the respective state. | URL | optional	|
+| Zentrales Monitoring | This variable indicates whether there is central open access monitoring in the respective state. |	0;1	| obligatory |
+| Zentrales Monitoring: URL |	This variable specifies the URL to the web page or document where information on open access monitoring can be found.	| URL	| optional	|
+| Incentivierung (Wettbewerbe, Preise etc.) |	This variable indicates whether the state funds some form of incentive through contests, prizes, or the like for OA.	| 0;1	| obligatory	|
+| Incentivierung 1: Name |	This variable indicates the title of the incentive program.	| free text	| optional |	
+| Incentivierung 1: URL |	This variable specifies the link to the web page or document that contains information about the particular incentive program.	| URL	| optional	|
+| Förderung von und für Netzwerke	| This variable indicates whether the respective federal state promotes networks in the area of OA. |	0;1	| obligatory	|
+| Förderung von und für Netzwerke 1: Name	| This variable indicates the title of the network that is supported by the respective federal state in the area of OA	| free text	| optional	|
+| Förderung von und für Netzwerke 1: URL | This variable specifies the URL of the network that is supported by the respective federal state in the area of Open Access	| URL	| optional	|
+| Kompetenzentwicklung	| This variable indicates whether the respective federal state promotes competence centers in the area of OA.	|  0;1 | obligatory	|
+| Kompetenzentwicklung 1: Name	| This variable indicates the title of the competence center that the respective federal state promotes in the area of OA. |	free text |	optional	|
+| Kompetenzentwicklung 1: URL |	This variable specifies the URL to the competence center that the respective federal state promotes in the area of OA. |	URL	| optional	|
+| Arbeitsgruppen (OA-Beauftragte) |	This variable indicates whether the respective federal state supports working groups, e.g. of OA officers. | 0;1 | obligatory	|
+| Arbeitsgruppe 1: Name |	This variable names the title of the OA working group funded by the respective state.	| free text	| optional	|
+| Arbeitsgruppe 1: URL	| This variable names the URL to information about the OA working group funded by the respective state.	| URL	| optional	|
+| Vernetzungsformen auf Landesebene	| This variable names whether there are forms of networking in the area of OA at the state level.	| 0;1	| obligatory	|
+| Vernetzungsformen auf Landesebene 1: Name	| This variable names the title of the form of networking at the state level in the area of OA.	| free text	| optional	|
+| Vernetzungsformen auf Landesebene 1: URL	| This variable names the URL to the web page or document that contains information about the networking form at the state level in OA.	| URL	| optional	|
+| Länderübergreifende Zusammenarbeit zur Förderung von OA	| This variable indicates whether there is a cross-country form of networking in the area of Open Access, for example Open Access exchange between federal states and the BMBF.	| 0;1	| obligatory	|
+| Länderübergreifende Zusammenarbeit 1: Name	| This variable denotes the form of cross-national exchange in the field of OA.	| free text |	optional |	
+| Länderübergreifende Zusammenarbeit 1: URL	| This variable specifies the URL to the web page or document where information about cross-country exchange in OA can be obtained.	| URL |	optional |	
+| Assoziierte Projekte	This variable indicates whether there are projects associated with OA in the respective state.	| 0;1	| obligatory	|
+| Assoziiertes Projekt 1-4 | This variable identifies projects associated with open access by subject area, including open source; open data; open educational resources; research data.	| free text	| optional	|
+| Assoziiertes Projekt 1-4: Name	| This variable names the projects associated with OA by project title in each state.	| free text	| optional	|
+| Assoziiertes Projekt 1-4: URL	| This variable names the URL to the web page with information about the project associated with OA in each state.	| URL |	optional	|
+| Best Practices aus den Bundesländern | This variable indicates whether open access best practices exist in the state. |	0;1 |	| obligatory	|
+| Best Practice 1-3: Name	| This variable names the title of the respective best practice in OA in the respective state.	| free text	| optional |
+| Best Practice 1-3: URL	| This variable names the URL to the respective best practice in OA in the respective state.	| URL	| optional 
+| Best Practice 1-3: Textauszug	This variable indicates the text excerpt on the respective best practice in the field of OA in the federal state. |	free text	| optional	|
+| Politische Wahlen: Jahr	| This variable designates in which year the political elections in the respective state take place or have taken place.	| dd/mm/yyyy	| obligatory	
+| Die Linke - Open Access im Parteiprogramm	| This variable indicates whether The Left Party (Die Linke) names OA in its current election program. |	0;1	| obligatory |	
+| Parteiprogramm Die Linke: Link	| This variable names the URL to the party program of The Left Party (Die Linke) in the respective federal state.	| URL	| optional	|
+| Parteiprogramm Die Linke: Textauszug	| This variable specifies the text excerpt in which Open Access is named in the party program of The Left Party (Die Linke). If there is a page reference, this is also named.	| free text	| optional	
+| SPD - Open Access im Parteiprogramm	| This variable indicates whether the Social Democratic Party for Germany (SPD) party names OA in its current election program.	| 0;1 | obligatory |
+| Parteiprogramm SPD: URL |	This variable designates the link to the party program of the SPD in the respective federal state.	| URL	| optional	|
+| Parteiprogramm SPD: Textauszug | This variable specifies the text excerpt in which Open Access is named in the SPD party program. If there is a page reference, this is also named. |	free text	| optional	|
+| Bündnis 90/Die Grünen - Open Access im Parteiprogramm	| This variable indicates whether the Green Party (Bündnis 90/Die Grünen) names OA in its current election program. | 0;1	| obligatory	|
+| Parteiprogramm Bündnis 90/Die Grünen: URL	| This variable designates the link to the party program of Bündnis 90/Die Grünen in the respective federal state. | URL |	optional	|
+| Parteiprogramm Bündnis 90/Die Grünen: Textauszug	| This variable specifies the text excerpt in which Open Access is mentioned in the party program of Bündnis 90/Die Grüne. If there is a page reference, this is also named. | free text	| optional	|
+| CDU - Open Access im Parteiprogramm	| This variable indicates whether the Christian Democratic Union (CDU) names OA in its current election program.	| 0;1	| obligatory	|
+| Parteiprogramm CDU: URL	| This variable designates the link to the party program of the CDU in the respective federal state.	| URL	| optional	|
+| Parteiprogramm CDU: Textauszug	| This variable specifies the text excerpt in which Open Access is named in the CDU party program. If there is a page reference, this is also named.	| free text |	optional	|
+| FDP - Open Access im Parteiprogramm	| This variable indicates whether the Free Democratic Party (FDP) party names OA in its current election program.	| 0;1	| obligatory |	
+| Parteiprogramm FDP: URL	| This variable designates the link to the party program of the FDP in the respective federal state.	| URL	| optional	|
+| Parteiprogramm FDP: Textauszug | This variable specifies the text excerpt in which Open Access is named in the party program of the FDP. If there is a page reference, this is also named.	| free text | optional |
+| Länder-Dossier Textauszug 1: Kurzer Abriss: Historie und Stand der Aktivitäten |	This variable shows the text excerpt on the topic of history and status of activities from the country dossier for the respective federal state.	| free text	| optional	|
+| Länder-Dossier Textauszug 2: Rahmenbedingungen	| This variable shows the text excerpt on the topic of framework conditions from the country dossier for the respective federal state.	| free text	| optional	|
+| Länder-Dossier Textauszug 3: Aktivitäten und Maßnahmen zur Förderung von Open Access	| This variable shows the text excerpt on the topic of activities and measures to promote OA from the state dossier for the respective federal state.	| free text	| optional |
+| Länder-Dossier Textauszug 4: Vernetzungsaktivitäten	| This variable shows the text excerpt on the topic of networking activities from the country dossier for the respective federal state.	| free text	| optional	|
+| Länder-Dossier Textauszug 5: Assoziierte Themen	| This variable shows the text excerpt on the Associated Topics topic from the country dossier for the respective federal state.	| free text	| optional	|
