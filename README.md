@@ -1,6 +1,6 @@
 # Bundesländer Atlas Open Access / Atlas on Open Access in German Federal States
 
-The data is collected within the BMBF-funded project open-access.network by the Open-Access-Büro Berlin. General information about the project and the concept of the Bundesländer-Atlas can be found in the current version 1.0 of the concept paper (available in German and English; DOI: oi.org/10.5281/zenodo.5761153). Contriuting authors to the inittial data collection are: Maxi Kindling, Sophie Kobialka, Maike Neufend, Linda Martin, Nina Schönfelder, Agnieszka Wenninger (as of February 2022). 
+The data is collected within the BMBF-funded project open-access.network by the Open-Access-Büro Berlin. General information about the project and the concept of the Bundesländer-Atlas can be found in the current version 1.0 of the concept paper (available in German and English; DOI: oi.org/10.5281/zenodo.5761153). Contributing authors to the data collection are: Anita Eppelin (Monografienfonds), Maxi Kindling, Sophie Kobialka, Maike Neufend, Linda Martin, Nina Schönfelder (Zeitschriftenfonds), Sabrina Stockhusen (Zeitschriftenfonds) Agnieszka Wenninger (as of April 2022). 
 
 # Data description (data files to be added soon)
 
